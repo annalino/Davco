@@ -51,13 +51,21 @@ window.onclick = function(event) {
   }
 }
 
-function openModal() {
-  var myModal = new Modal({
-    content: 'Happy birthday Dave! We thought you might like a website! Hopefully you can become the mancave man. The builder thats is sought after to make crazy mancaves all over the world. Then I want a job'
-  });
 
+var myModal = new Modal({
+  content: 'Happy birthday Dave! We thought you might like a website! Hopefully you can become the mancave man. The builder thats is sought after to make crazy mancaves all over the world. Then I want a job. <button class="btn-teal" id="close-modal">Close</button>',
+  closeButton: false
+});
+
+function openModal() {
   myModal.open();
+  var closeButton = document.getElementById('close-modal');
+  closeButton.addEventListener('click', function() {
+    myModal.close();
+  });
 }
 
 // attempt at splash screen
-window.onload=function() { openModal() }
+window.onload=function() {
+  openModal();
+}
