@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_affiliates</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon_affiliates" stroke="#666666" stroke-width="2">
+            <g id="u_bend-copy">
+                <polygon id="Path" points="43 15 59 15 59 7 43 7"></polygon>
+                <polygon id="Path" points="17 37 33 37 33 29 17 29"></polygon>
+                <polygon id="Path" points="5 25 13 25 13 9 5 9"></polygon>
+                <path d="M19,29 L19,27 C19,24.791 17.209,23 15,23 L13,23" id="Path"></path>
+                <path d="M31,29 L31,27 C31,18.163 23.837,11 15,11 L13,11" id="Path"></path>
+                <path d="M57,15 L57,38 C57,48.493 48.493,57 38,57 C27.507,57 19,48.493 19,38 L19,37" id="Path"></path>
+                <path d="M45,15 L45,38 C45,41.866 41.866,45 38,45 C34.134,45 31,41.866 31,38 L31,37" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

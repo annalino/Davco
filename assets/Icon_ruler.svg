@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_ruler</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="set_square" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <polygon id="Path" points="59 5 59 59 5 59"></polygon>
+            <polygon id="Path" points="47 33 47 47 33 47"></polygon>
+            <path d="M55,15 L59,15 L55,15 Z" id="Path"></path>
+            <path d="M52,21 L59,21 L52,21 Z" id="Path"></path>
+            <path d="M55,27 L59,27 L55,27 Z" id="Path"></path>
+            <path d="M55,39 L59,39" id="Path"></path>
+            <path d="M52,45 L59,45" id="Path"></path>
+            <path d="M55,51 L59,51" id="Path"></path>
+            <path d="M52,33 L59,33" id="Path"></path>
+        </g>
+        <g id="Icon_ruler"></g>
+    </g>
+</svg>

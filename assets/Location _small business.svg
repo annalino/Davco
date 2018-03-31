@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Location _small business</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1.91303422,82 L21.0433764,82 C23.5940887,76.5226269 23.0839463,72.0411398 19.5129491,68.5555387 C14.1564532,63.3271371 5.73910266,64.8209661 1.91303422,69.3024532 C-0.637678074,72.2901113 -0.637678074,76.5226269 1.91303422,82 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Location-_small-business">
+            <g id="Group-4" transform="translate(5.000000, 4.000000)">
+                <g id="Group-3-Copy" transform="translate(5.000000, 45.000000)" fill="#239AAC">
+                    <rect id="Rectangle-3" x="66.0175439" y="0" width="4" height="35"></rect>
+                    <rect id="Rectangle-3-Copy-3" x="0" y="0" width="4" height="35"></rect>
+                </g>
+                <g id="Group-2">
+                    <rect id="Rectangle-3-Copy" stroke="#239AAC" stroke-width="3" x="2.75" y="38.7727273" width="75" height="6.93939394"></rect>
+                    <rect id="Rectangle-3-Copy-2" stroke="#239AAC" stroke-width="3" x="2.75" y="1.5" width="75" height="6.93939394"></rect>
+                    <g id="Group-3" transform="translate(5.000000, 7.000000)" fill="#239AAC">
+                        <rect id="Rectangle-3" x="66.25" y="7.10542736e-15" width="4" height="30.5499992"></rect>
+                        <rect id="Rectangle-3-Copy-3" x="0" y="7.10542736e-15" width="4" height="30.5499992"></rect>
+                    </g>
+                    <g id="Group" transform="translate(18.000000, 15.000000)" stroke="#239AAC" stroke-width="2">
+                        <rect id="Rectangle-3-Copy-4" x="1" y="1" width="13" height="15.3939394"></rect>
+                        <rect id="Rectangle-3-Copy-5" x="31" y="1" width="13" height="15.3939394"></rect>
+                    </g>
+                    <g id="Group-Copy" transform="translate(18.750000, 50.939394)" stroke="#239AAC" stroke-width="2">
+                        <rect id="Rectangle-3-Copy-4" x="1" y="1" width="14.25" height="29.0606061"></rect>
+                        <rect id="Rectangle-3-Copy-5" x="23" y="1" width="21.75" height="15.3939394"></rect>
+                    </g>
+                    <g id="Path-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#239AAC" stroke-width="2" d="M2.55806511,81 L20.3958559,81 C22.4796864,76.1591998 21.9371746,72.319198 18.8144505,69.2711502 C14.2477045,64.8136125 6.48982024,65.4817622 2.67356447,69.9517557 C0.502884863,72.4942802 0.421021078,76.1334306 2.55806511,81 Z"></path>
+                    </g>
+                    <path d="M52.0054335,80.9393939 L62.0597689,80.9393939 C63.400347,77.6910775 63.1322314,75.0333641 61.2554221,72.9662536 C58.4402082,69.8655879 54.0163006,70.7514924 52.0054335,73.4092059 C50.6648555,75.1810148 50.6648555,77.6910775 52.0054335,80.9393939 Z" id="Path-2-Copy-2" stroke="#239AAC" stroke-width="2"></path>
+                    <path d="M62.5625,80.9090909 L78.1875,80.9090909 C80.2708333,76.0366163 79.8541667,72.0500461 76.9375,68.9493804 C72.5625,64.2983819 65.6875,65.6272386 62.5625,69.6138088 C60.4791667,72.2715222 60.4791667,76.0366163 62.5625,80.9090909 Z" id="Path-2-Copy" stroke="#239AAC" stroke-width="2" fill="#FFFFFF"></path>
+                </g>
+                <rect id="Rectangle-4" fill="#239AAC" x="27" y="80" width="25" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

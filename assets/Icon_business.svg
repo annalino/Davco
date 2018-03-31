@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_business</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="toolbox" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <polygon id="Path" points="5 17 59 17 59 53 5 53"></polygon>
+            <path d="M39,14 C39,12.344 37.657,11 36,11 L28,11 C26.343,11 25,12.344 25,14" id="Path"></path>
+            <path d="M5,35.002 L17,35.002 L5,35.002 Z" id="Path"></path>
+            <polygon id="Path" points="17 31 21 31 21 39.002 17 39.002"></polygon>
+            <polygon id="Path" points="43 31 47 31 47 39.002 43 39.002"></polygon>
+            <path d="M21,35 L43,35 L21,35 Z" id="Path"></path>
+            <path d="M47,35 L59,35 L47,35 Z" id="Path"></path>
+        </g>
+        <g id="Icon_business"></g>
+    </g>
+</svg>

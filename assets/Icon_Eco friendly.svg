@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="64px" viewBox="0 0 63 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_Eco friendly</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon_Eco-friendly" stroke="#666666" stroke-width="2">
+            <g id="Group-10" transform="translate(7.000000, 3.000000)">
+                <g id="Group-8">
+                    <path d="M13,46.0487805 C20.9774464,46.0487805 26,39.6060488 26,31.6585366 C26,23.7110243 20.9774464,0 13,0 C5.02255361,0 0,23.7110243 0,31.6585366 C0,39.6060488 5.02255361,46.0487805 13,46.0487805 Z" id="Oval-Copy"></path>
+                    <g id="Group-6" transform="translate(6.500000, 12.951220)" stroke-linecap="round">
+                        <g id="Group-7">
+                            <polyline id="Path-8" stroke-linejoin="round" points="6.5 0 6.5 23.0243902 6.5 45.3521042"></polyline>
+                            <path d="M0,17.2682927 L6.54496393,23.7886976" id="Path-9"></path>
+                            <path d="M11.5555556,7.91463415 L6.5,12.9512195" id="Path-10"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-9" transform="translate(21.000000, 19.000000)">
+                    <ellipse id="Oval" cx="14.5" cy="14.5454545" rx="14.5" ry="14.5454545"></ellipse>
+                    <g id="Group-6-Copy" transform="translate(7.250000, 8.727273)" stroke-linecap="round">
+                        <g id="Group-7">
+                            <polygon id="Path-8" stroke-linejoin="round" points="6.525 0 6.525 8 6.525 30.5685368"></polygon>
+                            <path d="M0,2.18181818 L6.57013687,8.77255109" id="Path-9"></path>
+                            <path d="M11.6,10.9090909 L6.525,16" id="Path-10"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

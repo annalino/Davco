@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>FB</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FB">
+            <g id="Group">
+                <circle id="Oval-2" fill="#239AAC" cx="45" cy="45" r="45"></circle>
+                <path d="M37.1881059,76.6881529 L37.1881059,47.9862 L27.5294118,47.9862 L27.5294118,36.7997294 L37.1881059,36.7997294 L37.1881059,28.5509647 C37.1881059,18.9776118 43.0353529,13.7647059 51.5762471,13.7647059 C55.6657412,13.7647059 59.1814588,14.0692235 60.2060824,14.2057059 L60.2060824,24.2102118 L54.2844,24.2127529 C49.6386,24.2127529 48.7399765,26.4198706 48.7399765,29.6583882 L48.7399765,36.7997294 L59.8163294,36.7997294 L58.3738941,47.9862 L48.7399765,47.9862 L48.7399765,76.6881529 L37.1881059,76.6881529 Z" id="facebook-facebook" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

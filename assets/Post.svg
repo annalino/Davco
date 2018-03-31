@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Post</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Post">
+            <g id="Group-2" transform="translate(0.000000, 10.000000)">
+                <g id="Group" stroke="#FE9D21" stroke-width="4">
+                    <rect id="Rectangle" x="2" y="2" width="86" height="64" rx="4"></rect>
+                </g>
+                <rect id="Rectangle-5" stroke="#FE9D21" stroke-width="3" x="66.5" y="11.5" width="11" height="14"></rect>
+                <rect id="Rectangle-6" fill="#FE9D21" x="11" y="26" width="27" height="4"></rect>
+                <rect id="Rectangle-6-Copy" fill="#FE9D21" x="11" y="35" width="40" height="4"></rect>
+                <rect id="Rectangle-6-Copy-2" fill="#FE9D21" x="11" y="44" width="34" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

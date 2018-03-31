@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_safety</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icon_safety" stroke="#FA6900" stroke-width="2">
+            <g id="safety_helmet">
+                <path d="M29,9 L23,10 C21.896,10 21,10.895 21,12 L21,23" id="Path"></path>
+                <path d="M29,25 L29,9 C29,7.895 29.896,7 31,7 C32.105,7 33,7.895 33,9 L33,25 L29,25 Z" id="Path"></path>
+                <path d="M33,9 L39,10 C40.104,10 41,10.895 41,12 L41,23" id="Path"></path>
+                <path d="M40.993,12.737 C49.259,15.884 55,23.305 55,35 L55,39.002" id="Path"></path>
+                <path d="M21,12.74 C12.737,15.889 7,23.308 7,35 L7,39" id="Path"></path>
+                <path d="M49,43 C47,44.002 47,45 31,45 C15,45 15,44.002 13,43" id="Path"></path>
+                <path d="M7,39.002 C5.896,39.002 5,39.896 5,41.002 C5,41.002 7,44 7,47 C7,50 9,52 11,53 C13,54 17,57 31,57 C45,57 49,54 51,53 C53,52 55,50 55,47 C55,44 57,41.002 57,41.002 C57,39.896 56.105,39.002 55,39.002 L7,39.002 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

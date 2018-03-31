@@ -1,0 +1,20 @@
+<html>
+<head>
+	<link rel='stylesheet' type='text/css' href='style.css'>
+	<script src='modal.js'></script>
+</head>
+<body>
+	<button id='launchModalButton' type='button'>Launch Modal</button>
+	<script>
+		var myModal = new Modal({
+			content: 'Happy birthday Dave! We thought you might like a website! Hopefully you can become the mancave man. The builder thats is sought after to make crazy mancaves'
+		});
+
+		var launchModal = document.getElementById('launchModalButton');
+
+		launchModal.addEventListener('click', function() {
+			myModal.open();
+		});
+	</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_measure</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tape_measure" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="M30.813,51.764 C26.498,56.079 19.501,56.079 15.185,51.763 L4.237,40.816 C-0.079,36.5 -0.079,29.502 4.236,25.186 L15.185,14.237 C19.501,9.921 26.498,9.921 30.814,14.238 L47.841,31.264 C48.8,32.224 48.8,33.777 47.841,34.736 L30.813,51.764 L30.813,51.764 Z" id="Path"></path>
+            <path d="M35,33.002 C35,39.628 29.628,45 23.001,45 C16.373,45 11.001,39.628 11,33 C11,26.372 16.374,21 23,21 C29.627,21 35.001,26.372 35,33.002 L35,33.002 Z" id="Path"></path>
+            <path d="M48.125,34.414 L59,23 L48.125,34.414 Z" id="Path"></path>
+            <path d="M59,23 L63,27 L59,23 Z" id="Path"></path>
+        </g>
+        <g id="Icon_measure"></g>
+    </g>
+</svg>

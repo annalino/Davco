@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_pencil ruler</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ruler_pencil" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <polygon id="Path" points="37 11 49 11 49 43.326 43 61 37 43.326"></polygon>
+            <polyline id="Path" points="37.375 44.366 41 41 45 45 49 41"></polyline>
+            <path d="M40.963,55 L45.037,55 L40.963,55 Z" id="Path"></path>
+            <path d="M41,37 L41,15 L41,37 Z" id="Path"></path>
+            <polygon id="Path" points="13 61 27 61 27 3 13 3"></polygon>
+            <path d="M19,35 L27,35 L19,35 Z" id="Path"></path>
+            <path d="M23,29 L27,29 L23,29 Z" id="Path"></path>
+            <path d="M19,23 L27,23 L19,23 Z" id="Path"></path>
+            <path d="M19,11 L27,11 L19,11 Z" id="Path"></path>
+            <path d="M23,17 L27,17 L23,17 Z" id="Path"></path>
+            <path d="M21,53 L27,53 L21,53 Z" id="Path"></path>
+            <path d="M19,47 L27,47 L19,47 Z" id="Path"></path>
+            <path d="M23,41 L27,41 L23,41 Z" id="Path"></path>
+            <path d="M37,11 L37,6 C37,4.344 38.344,3 40,3 L46,3 C47.656,3 49,4.344 49,6 L49,11 L37,11 Z" id="Path"></path>
+        </g>
+        <g id="Icon_pencil-ruler"></g>
+    </g>
+</svg>
